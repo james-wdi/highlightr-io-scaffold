@@ -1,5 +1,6 @@
 # Highlightr.io
 ### Highlight and share any page. 
+![Demo](https://i.imgur.com/jHfqd55.gif)
 
 ## Links
 ### Chrome Extension Available in the App Store
