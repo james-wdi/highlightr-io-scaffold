@@ -8,9 +8,7 @@
 ### Server-side App, deployed on Heroku
 - TBD 
 
-## Wireframes / ERD
-![Wireframes](https://i.imgur.com/ijZQc7Z.jpg)
-
+## DB Structure
 ![ERD](https://i.imgur.com/OlyDPDq.jpg)
 
 ## User Stories
