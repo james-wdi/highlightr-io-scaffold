@@ -3,10 +3,9 @@
 
 ## Links
 ### Chrome Extension Available in the App Store
-- TBD
+https://chrome.google.com/webstore/detail/highlightrio/likcblkngckedgoojneppgpdocldbgga
 
-### Server-side App, deployed on Heroku
-- TBD 
+### Server-side App deployed on Heroku
 
 ## DB Structure
 ![ERD](https://i.imgur.com/OlyDPDq.jpg)
